@@ -1,6 +1,6 @@
 {
 	"name": "tbjson-handler-browser",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "Browser support for TBJSON Handler.",
 	"homepage": "https://github.com/obsius/tbjson-handler-browser",
 	"author": "Jeff Seaman <mr.jeffrey.seaman@gmail.com> (https://www.ngc6822.com)",
@@ -11,8 +11,8 @@
 	},
 	"devDependencies": {
 		"browserify": "^17.0.0",
-		"tbjson-handler": "^1.0.8",
-		"typed-binary-json": "^1.17.4"
+		"tbjson-handler": "^1.0.9",
+		"typed-binary-json": "^1.17.5"
 	},
 	"keywords": [
 		"tbjson",
